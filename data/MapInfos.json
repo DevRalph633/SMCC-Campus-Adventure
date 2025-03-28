@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":false,"name":"character select","order":1,"parentId":0,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":2,"expanded":true,"name":"outside gate1","order":2,"parentId":0,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":3,"expanded":true,"name":"inside gate","order":3,"parentId":2,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":4,"expanded":false,"name":"computerlabs","order":4,"parentId":3,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":5,"expanded":true,"name":"quadrangle","order":5,"parentId":3,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":6,"expanded":false,"name":"second floor","order":10,"parentId":3,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":7,"expanded":false,"name":"third floor","order":11,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"stage","order":6,"parentId":5,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":9,"expanded":true,"name":"inside gate2","order":7,"parentId":8,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":10,"expanded":false,"name":"outside gate 2","order":8,"parentId":9,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":11,"expanded":false,"name":"library","order":9,"parentId":8,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":12,"expanded":false,"name":"classroom","order":12,"parentId":0,"scrollX":722.6666666666666,"scrollY":401.3333333333333},
+{"id":13,"expanded":false,"name":"score counter","order":13,"parentId":0,"scrollX":722.6666666666666,"scrollY":401.3333333333333}
+]
